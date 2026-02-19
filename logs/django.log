@@ -50,3 +50,25 @@
 2026-02-19 10:52:11,397 [INFO] django.server | "GET /static/admin/js/theme.js HTTP/1.1" 304 0
 2026-02-19 10:52:11,437 [INFO] django.server | "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
 2026-02-19 10:52:11,446 [INFO] django.server | "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+2026-02-19 15:11:24,717 [INFO] django.utils.autoreload | Watching for file changes with StatReloader
+2026-02-19 15:11:55,808 [INFO] django.server | "GET /api/docs/ HTTP/1.1" 200 4647
+2026-02-19 15:11:56,627 [INFO] django.server | "GET /api/schema/ HTTP/1.1" 200 48566
+2026-02-19 15:12:35,617 [INFO] django.server | "GET /admin/ HTTP/1.1" 302 0
+2026-02-19 15:12:35,654 [INFO] django.server | "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4158
+2026-02-19 15:12:35,694 [INFO] django.server | "GET /static/admin/css/login.css HTTP/1.1" 200 958
+2026-02-19 15:12:35,694 [INFO] django.server | "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+2026-02-19 15:12:35,697 [INFO] django.server | "GET /static/admin/css/responsive.css HTTP/1.1" 200 17905
+2026-02-19 15:12:35,697 [INFO] django.server | "GET /static/admin/js/theme.js HTTP/1.1" 200 1943
+2026-02-19 15:12:35,698 [INFO] django.server | "GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2682
+2026-02-19 15:12:35,698 [INFO] django.server | "GET /static/admin/css/base.css HTTP/1.1" 200 21544
+2026-02-19 15:12:35,699 [INFO] django.server | "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+2026-02-19 15:12:35,745 [WARNING] django.server | "GET /favicon.ico HTTP/1.1" 404 2604
+2026-02-19 15:13:26,201 [INFO] django.server | "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+2026-02-19 15:13:26,329 [INFO] django.server | "GET /admin/ HTTP/1.1" 200 7072
+2026-02-19 15:13:26,356 [INFO] django.server | "GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+2026-02-19 15:13:26,363 [INFO] django.server | "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+2026-02-19 15:13:26,364 [INFO] django.server | "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+2026-02-19 15:14:14,185 [INFO] django.server | "GET /api/docs/ HTTP/1.1" 200 4647
+2026-02-19 15:14:14,608 [INFO] django.server | "GET /api/schema/ HTTP/1.1" 200 49363
+2026-02-19 15:15:42,538 [WARNING] django.server | "POST /api/auth/register/ HTTP/1.1" 400 36
+2026-02-19 15:17:07,567 [WARNING] django.server | "POST /api/auth/register/ HTTP/1.1" 400 36
