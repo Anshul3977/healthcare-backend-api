@@ -410,7 +410,6 @@ If you have any questions or run into issues:
 1. Check the [DEPLOYMENT.md](DEPLOYMENT.md) guide
 2. Review the [API Documentation](http://127.0.0.1:8000/api/docs/)
 3. Open an issue on GitHub
-4. Contact: [your-email@example.com](mailto:your-email@example.com)
 
 ---
 
