@@ -1,0 +1,52 @@
+2026-02-19 10:50:34,816 [INFO] django.utils.autoreload | Watching for file changes with StatReloader
+2026-02-19 10:51:03,062 [INFO] django.utils.autoreload | /Users/anshulpalarpwar/Documents/healthcare_backend/core/views.py changed, reloading.
+2026-02-19 10:51:03,599 [INFO] django.utils.autoreload | Watching for file changes with StatReloader
+2026-02-19 10:51:04,806 [INFO] django.utils.autoreload | /Users/anshulpalarpwar/Documents/healthcare_backend/healthcare_backend/urls.py changed, reloading.
+2026-02-19 10:51:05,117 [INFO] django.utils.autoreload | Watching for file changes with StatReloader
+2026-02-19 10:51:25,889 [INFO] django.utils.autoreload | /Users/anshulpalarpwar/Documents/healthcare_backend/core/views.py changed, reloading.
+2026-02-19 10:51:26,324 [INFO] django.utils.autoreload | Watching for file changes with StatReloader
+2026-02-19 10:51:38,169 [INFO] core | User registered: testuser_8093@test.com (Test User)
+2026-02-19 10:51:38,170 [INFO] django.server | "POST /api/auth/register/ HTTP/1.1" 201 103
+2026-02-19 10:51:38,358 [INFO] core | Login successful: testuser_8093@test.com
+2026-02-19 10:51:38,364 [INFO] django.server | "POST /api/auth/login/ HTTP/1.1" 200 584
+2026-02-19 10:51:38,380 [INFO] core | Patient created: John Doe (ID 2) by user testuser_8093@test.com
+2026-02-19 10:51:38,382 [INFO] django.server | "POST /api/patients/ HTTP/1.1" 201 319
+2026-02-19 10:51:38,392 [INFO] core | Patient created: Sarah Johnson (ID 3) by user testuser_8093@test.com
+2026-02-19 10:51:38,393 [INFO] django.server | "POST /api/patients/ HTTP/1.1" 201 319
+2026-02-19 10:51:38,409 [INFO] core | Patient created: Raj Patel (ID 4) by user testuser_8093@test.com
+2026-02-19 10:51:38,409 [INFO] django.server | "POST /api/patients/ HTTP/1.1" 201 329
+2026-02-19 10:51:38,420 [INFO] core | Patient created: Emily Chen (ID 5) by user testuser_8093@test.com
+2026-02-19 10:51:38,421 [INFO] django.server | "POST /api/patients/ HTTP/1.1" 201 306
+2026-02-19 10:51:38,433 [INFO] core | Patient created: Alex Rivera (ID 6) by user testuser_8093@test.com
+2026-02-19 10:51:38,433 [INFO] django.server | "POST /api/patients/ HTTP/1.1" 201 342
+2026-02-19 10:51:38,457 [INFO] django.server | "POST /api/doctors/ HTTP/1.1" 201 247
+2026-02-19 10:51:38,469 [INFO] django.server | "POST /api/doctors/ HTTP/1.1" 201 251
+2026-02-19 10:51:38,481 [INFO] django.server | "POST /api/doctors/ HTTP/1.1" 201 252
+2026-02-19 10:51:38,503 [INFO] django.server | "POST /api/mappings/ HTTP/1.1" 201 807
+2026-02-19 10:51:38,521 [INFO] django.server | "POST /api/mappings/ HTTP/1.1" 201 816
+2026-02-19 10:51:38,536 [INFO] django.server | "POST /api/mappings/ HTTP/1.1" 201 809
+2026-02-19 10:51:38,551 [INFO] django.server | "POST /api/mappings/ HTTP/1.1" 201 821
+2026-02-19 10:51:38,566 [INFO] django.server | "POST /api/mappings/ HTTP/1.1" 201 827
+2026-02-19 10:51:38,591 [INFO] django.server | "POST /api/mappings/ HTTP/1.1" 201 832
+2026-02-19 10:51:38,606 [INFO] django.server | "POST /api/mappings/ HTTP/1.1" 201 798
+2026-02-19 10:51:38,621 [INFO] django.server | "POST /api/mappings/ HTTP/1.1" 201 801
+2026-02-19 10:51:38,636 [INFO] django.server | "POST /api/mappings/ HTTP/1.1" 201 839
+2026-02-19 10:51:38,652 [INFO] django.server | "POST /api/mappings/ HTTP/1.1" 201 840
+2026-02-19 10:51:38,667 [INFO] django.server | "GET /api/patients/ HTTP/1.1" 200 1671
+2026-02-19 10:51:38,684 [INFO] django.server | "GET /api/mappings/patient/2/ HTTP/1.1" 200 1968
+2026-02-19 10:51:38,700 [INFO] django.server | "GET /api/mappings/patient/3/ HTTP/1.1" 200 1975
+2026-02-19 10:51:38,717 [INFO] django.server | "GET /api/mappings/patient/4/ HTTP/1.1" 200 2014
+2026-02-19 10:51:38,733 [INFO] django.server | "GET /api/mappings/patient/5/ HTTP/1.1" 200 1931
+2026-02-19 10:51:38,752 [INFO] django.server | "GET /api/mappings/patient/6/ HTTP/1.1" 200 2047
+2026-02-19 10:52:10,290 [INFO] django.server | "GET /api/docs/ HTTP/1.1" 200 4647
+2026-02-19 10:52:10,925 [INFO] django.server | "GET /api/schema/ HTTP/1.1" 200 49363
+2026-02-19 10:52:11,298 [INFO] django.server | "GET /admin/ HTTP/1.1" 200 7072
+2026-02-19 10:52:11,392 [INFO] django.server | "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+2026-02-19 10:52:11,394 [INFO] django.server | "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+2026-02-19 10:52:11,394 [INFO] django.server | "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+2026-02-19 10:52:11,394 [INFO] django.server | "GET /static/admin/css/base.css HTTP/1.1" 304 0
+2026-02-19 10:52:11,396 [INFO] django.server | "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+2026-02-19 10:52:11,397 [INFO] django.server | "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+2026-02-19 10:52:11,397 [INFO] django.server | "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+2026-02-19 10:52:11,437 [INFO] django.server | "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+2026-02-19 10:52:11,446 [INFO] django.server | "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
